@@ -9,7 +9,7 @@ import AuthPageSignIn from '../../ui/pages/AuthPageSignIn.jsx';
 import AuthPageJoin from '../../ui/pages/AuthPageJoin.jsx';
 import NotFoundPage from '../../ui/pages/NotFoundPage.jsx';
 
-i18n.setLocale('en');
+i18n.setLocale('fr');
 
 export const renderRoutes = () => (
   <Router history={browserHistory}>
